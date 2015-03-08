@@ -88,7 +88,8 @@ a {
   outline: none; }
 
 main {
-  padding-top: 12px; }
+  padding-top: 12px;
+  float:left; }
 
 a:hover {
   color: #143352; }
@@ -270,6 +271,8 @@ table.chart {
     font-size: 13px; }
 
   footer {
-    padding: 20px 20px 40px 20px; } }
+    padding: 20px 20px 40px 20px; }
+  
+}
 
 /*# sourceMappingURL=style.css.map */
